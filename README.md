@@ -1,3 +1,3 @@
 # React
 
-This is basic HTML page with
+This is basic HTML page
